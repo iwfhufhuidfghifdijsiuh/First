@@ -11,6 +11,7 @@ namespace ewuhwefwwrhiu
         static void Main(string[] args)
         {
             Console.WriteLine("The World");
+            Console.WriteLine("Star Platinum");
         }
     }
 }
